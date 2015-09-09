@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  scorecard_id: 1
+  name: MyString
+  par: 1
+  course_id: 1
+
+two:
+  scorecard_id: 1
+  name: MyString
+  par: 1
+  course_id: 1
